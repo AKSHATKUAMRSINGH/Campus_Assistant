@@ -1,6 +1,6 @@
 # 🎓 Campus Assistant
 
-A Python-based campus assistant chatbot designed to help students with common academic and campus-related queries.
+A Python based campus assistant chatbot designed to help students with common academic and campus-related queries.
 
 The system uses a **frame-based dialogue approach inspired by GUS**, maintains dialogue state across multiple turns, extracts relevant entities/slots, asks follow-up questions when information is missing, and provides responses using a predefined campus knowledge base.
 
